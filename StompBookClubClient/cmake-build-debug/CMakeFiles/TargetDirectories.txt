@@ -1,3 +1,0 @@
-/home/esev/CLionProjects/StompBookClubClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/esev/CLionProjects/StompBookClubClient/cmake-build-debug/CMakeFiles/StompBookClubClient.dir
-/home/esev/CLionProjects/StompBookClubClient/cmake-build-debug/CMakeFiles/edit_cache.dir
